@@ -1,6 +1,6 @@
 # Week 9 Project: Honeypot
 
-Time spent: **9** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Deployed Honeypot(s) 
 I deployed [Dionaea](https://github.com/rep/dionaea) as honeypot-1 using the [Modern Honey Network](https://github.com/threatstream/mhn#honeypot). I deployed f1-micro instance on Google Compute Engine running Ubuntu 14.04 Trusty.
