@@ -14,7 +14,7 @@ I deployed three honeypots using the [Modern Honey Network](https://github.com/t
 
 It took me a while to troubleshoot issues regarding connecting to MHN Server.
 
-## Summary of the data collected: number of attacks, number of malware samples, etc.
+## Summary of Data
 
 I kept the deployed honeypots open for about 6 hours. Below is the summary of the data collected:
 
