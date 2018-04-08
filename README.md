@@ -16,7 +16,7 @@ It took me a while to troubleshoot issues regarding connecting to MHN Server.
 
 ## Summary of the data collected: number of attacks, number of malware samples, etc.
 
-I kept the deployed honeypots open for about 6 hours. Below are the summary of the data collected:
+I kept the deployed honeypots open for about 6 hours. Below is the summary of the data collected:
 
   - [ ] There were **1100** total attacks across all three honeypots (dionaea: 544, p0f: 200, snort: 356).
 
