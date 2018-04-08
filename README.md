@@ -18,7 +18,7 @@ It took me a while to troubleshoot issues regarding connecting to MHN Server.
 
 I kept the deployed honeypots open for about 6 hours. Below is the summary of the data collected:
 
-  - [ ] There were **1100** total attacks across all three honeypots (dionaea: 544, p0f: 200, snort: 356).
+  - [ ] There were **1100** total attacks across all three honeypots (dionaea: 544, snort: 356, p0f: 200).
 
  I uploaded the json export of the data I collected in this repository.
 
