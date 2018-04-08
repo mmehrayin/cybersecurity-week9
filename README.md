@@ -1,12 +1,29 @@
 # Week 9 Project: Honeypot
 
-Time spent: **10** hours spent in total
+Time spent: **11** hours spent in total
 
 ## Deployed Honeypot(s) 
-I deployed [Dionaea](https://github.com/rep/dionaea) as honeypot-1 using the [Modern Honey Network](https://github.com/threatstream/mhn#honeypot). I deployed f1-micro instance on Google Compute Engine running Ubuntu 14.04 Trusty.
+
+I deployed three honeypots using the [Modern Honey Network](https://github.com/threatstream/mhn#honeypot) as following. Also deployed f1-micro instances on Google Compute Engine running Ubuntu 14.04 Trusty.
+
+   - [ ] [Dionaea](https://github.com/rep/dionaea) (honeypot-1)
+   - [ ] [Snort](https://github.com/threatstream/mhn/wiki/Snort-Sensor) (honeypot-2)
+   - [ ] [p0f](https://github.com/threatstream/mhn/wiki/p0f-Sensor) (honeypot-3)
+
 ## Encountered Issues
+
+It took me a while to troubleshoot issues regarding connecting to MHN Server.
+
 ## Summary of the data collected: number of attacks, number of malware samples, etc.
+
+I kept the deployed honeypots open for about 6 hours. Below are the summary of the data collected:
+
+  - [ ] There were **1100** total attacks across all three honeypots (dionaea: 544, p0f: 200, snort: 356).
+
+ I uploaded the json export of the data I collected in this repository.
+
 ## Unresolved questions raised by the data collected
+N/A
 
 
 
